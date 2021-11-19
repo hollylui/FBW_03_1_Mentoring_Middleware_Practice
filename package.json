@@ -1,0 +1,29 @@
+{
+  "name": "fbw_e03_1_mentoring_middleware_practice",
+  "version": "1.0.0",
+  "description": "This is small exercise to practice writing our custom middleware.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianSalasDCI/FBW_E03_1_Mentoring_Middleware_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianSalasDCI/FBW_E03_1_Mentoring_Middleware_Practice/issues"
+  },
+  "homepage": "https://github.com/SebastianSalasDCI/FBW_E03_1_Mentoring_Middleware_Practice#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
